@@ -1,0 +1,5 @@
+# Library
+node_modules/**
+!node_modules/app.js
+dist/**.js
+.prettierrc
